@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {
+  "type": "Feature",
+  "properties": {
+  "id": 1,
+  "name": "Building A",
+  "height": 15,
+  "type": "residential"
+  },
+  "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+  [
+  [-74.00, 40.70],
+  [-74.00, 40.701],
+  [-73.999, 40.701],
+  [-73.999, 40.70],
+  [-74.00, 40.70]
+  ]
+  ]
+  }
+  },
+  {
+  "type": "Feature",
+  "properties": {
+  "id": 2,
+  "name": "Building B",
+  "height": 50,
+  "type": "commercial"
+  },
+  "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+  [
+  [-74.002, 40.703],
+  [-74.002, 40.704],
+  [-74.001, 40.704],
+  [-74.001, 40.703],
+  [-74.002, 40.703]
+  ]
+  ]
+  }
+  },
+  {
+  "type": "Feature",
+  "properties": {
+  "id": 3,
+  "name": "Building C",
+  "height": 80,
+  "type": "residential"
+  },
+  "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+  [
+  [-74.001, 40.706],
+  [-74.001, 40.7075],
+  [-74.000, 40.7075],
+  [-74.000, 40.706],
+  [-74.001, 40.706]
+  ]
+  ]
+  }
+  },
+  {
+  "type": "Feature",
+  "properties": {
+  "id": 4,
+  "name": "Building D",
+  "height": 100,
+  "type": "industrial"
+  },
+  "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+  [
+  [-73.998, 40.708],
+  [-73.998, 40.7095],
+  [-73.997, 40.7095],
+  [-73.997, 40.708],
+  [-73.998, 40.708]
+  ]
+  ]
+  }
+  },
+  {
+  "type": "Feature",
+  "properties": {
+  "id": 5,
+  "name": "Building E",
+  "height": 5,
+  "type": "commercial"
+  },
+  "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+  [
+  [-73.996, 40.700],
+  [-73.996, 40.7005],
+  [-73.9955, 40.7005],
+  [-73.9955, 40.700],
+  [-73.996, 40.700]
+  ]
+  ]
+  }
+  }
+  ]
+ }
